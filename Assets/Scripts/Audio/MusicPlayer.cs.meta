@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 35301ef7ed53f4848a52804c50c4bf27
+timeCreated: 1528048319
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - introClip: {fileID: 8300000, guid: 689e763e4d2526541aeb56c730da4dd8, type: 3}
+  - loopClip: {fileID: 8300000, guid: 689e763e4d2526541aeb56c730da4dd8, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
